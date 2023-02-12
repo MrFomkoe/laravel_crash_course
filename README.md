@@ -9,8 +9,8 @@ The app allows to register a new user, login and then upload and manage listings
 <p>
 The app utilizes the following features of Laravel
 </p>
-1. Validation of inputs and error displaying.
-2. Authentiation using built in middleware.
+1. Validation of inputs and error displaying.   
+2. Authentiation using built in middleware.    
 3. Routing based on authentication (creating of listing for authenticated users and management of only user owned listings).
 
 
